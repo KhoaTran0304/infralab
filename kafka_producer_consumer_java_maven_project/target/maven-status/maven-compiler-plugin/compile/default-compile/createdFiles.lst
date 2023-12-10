@@ -1,0 +1,4 @@
+kafka/producer/KafkaProducerSimplePoC.class
+kafka/consumer/KafkaConsumerSimplePoC.class
+kafka/common/config/Main.class
+kafka/common/config/CommonPropertiesConfig.class
